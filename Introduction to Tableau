@@ -1,0 +1,17 @@
+# Tableau
+## Introduction to Tableau
+### Getting started on Tableau
+### Building and customizing visualizations
+You may filter by:
+- Category
+- Date range
+- Location
+- Min/max value
+- Top N values
+
+Order of operations:
+- Extract filters
+- Data source filters
+- Context filters
+- Dimension filters
+- Measure filters
